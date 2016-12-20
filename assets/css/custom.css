@@ -1,0 +1,107 @@
+
+/*
+ * Globals
+ */
+
+body {
+    padding-top: 70px;
+    padding-bottom: 15px;
+    font-family: 'Lora', 'Times New Roman', serif;
+    font-size: 18px;
+    color: #555;
+}
+
+.navbar-fixed-top {
+    border: 0;
+}
+
+.navbar-custom {
+    font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+.navbar-custom .navbar-brand {
+    font-weight: 800;
+}
+.navbar-custom .navbar-header .navbar-toggle {
+    color: #777777;
+    font-weight: 800;
+    text-transform: uppercase;
+    font-size: 12px;
+}
+.navbar-custom .nav li a {
+    text-transform: uppercase;
+    font-size: 12px;
+    font-weight: 800;
+    letter-spacing: 1px;
+}
+
+a {
+    color: #333333;
+}
+a:hover,
+a:focus {
+    color: #0085A1;
+}
+
+img {
+    width: auto;
+    height: 200px;
+}
+
+h1, .h1,
+h2, .h2,
+h3, .h3,
+h4, .h4,
+h5, .h5,
+h6, .h6 {
+    margin-top: 0;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: normal;
+    color: #333;
+}
+
+.main {
+    padding: 15px;
+    font-size: 18px;
+    line-height: 1.5;
+}
+
+.sidebar {
+    padding-top: 5px;
+    
+}
+
+.sidebar hr {
+    margin: 5px;
+}
+
+.pubdate {
+    font-style: italic;
+    font-size: 0.9em;
+}
+
+#back-to-top a {
+    color: #333;
+}
+
+#back-to-top {
+
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+}
+
+.carousel {
+    margin: 0 auto 20px;
+    max-height: 300px;
+}
+
+.carousel-inner img {
+    max-height: 300px;
+    margin: 0 auto;
+}
+
+footer {
+    padding-bottom: 30px;
+    padding-top: 50px;
+    position: relative;
+}
